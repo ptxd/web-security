@@ -1,0 +1,19 @@
+{
+  "name": "web-security",
+  "version": "0.0.1",
+  "description": "web-security-test-scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptxd/web-security.git"
+  },
+  "author": "ptxd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ptxd/web-security/issues"
+  },
+  "homepage": "https://github.com/ptxd/web-security#readme"
+}
