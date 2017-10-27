@@ -48,7 +48,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **ptxd** - *Initial work* - [PurpleBooth](https://github.com/ptxd)
+* **ptxd** - *Initial work* - [ptxd](https://github.com/ptxd)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
